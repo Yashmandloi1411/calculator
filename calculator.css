@@ -1,0 +1,69 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    background: black;
+}
+h1{
+    color:white;
+}
+
+.container{
+      text-align: center;
+      margin-top: 23px;
+      background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3));
+}
+
+table{
+    margin:auto;
+}
+
+input{
+    font-size:19px;
+    height:25px;
+    width:auto;
+    border:2px solid gainsboro;
+    
+    border-radius:28px;
+}
+
+button{
+    font-size:23px;
+    background:#333;
+    color:white;
+    width: 56px;
+    height: 40px;
+    border-radius:28px;
+    margin:4px;
+    border:none;
+}
+.calculator{
+    padding-top:1rem;
+    padding-bottom: 1rem;
+     display:inline-block;
+     background:#333;
+     background: gainsboro;
+
+}
+.divide{
+    background-color:#20b2aa;
+}
+
+.multi{
+    background:#9477af;
+}
+
+.minus{
+    background:#7d93e0;
+}
+
+.plus{
+    background:#f08080;
+}
+
+.equal{
+    background: #ffa500;
+}
+
+.first{
+    background: #eaedef;
+    color:black;
+}
